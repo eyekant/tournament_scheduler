@@ -1,0 +1,50 @@
+{
+"base_cbc": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"base_highs": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"base_opt_highs": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"base_opt_cbc": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"symbreak_highs": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"symbreak_cbc": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"symbreak_opt_highs": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"symbreak_opt_cbc": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  }
+}

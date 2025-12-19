@@ -1,0 +1,62 @@
+{
+"basic_gecode": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"basic_chuffed": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"local_symbreak_gecode": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"local_symbreak_chuffed": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"local_noimplied_gecode": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"local_noimplied_chuffed": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"global_symbreak_gecode": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"global_symbreak_chuffed": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"global_symbreak_opt_gecode": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"global_symbreak_opt_chuffed": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  }
+}

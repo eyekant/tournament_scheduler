@@ -1,0 +1,50 @@
+{
+"Z3_1": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"Z3_1_symbreak": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"MINISAT22_1": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"MINISAT22_1_symbreak": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"GLUCOSE3_1": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"GLUCOSE3_1_symbreak": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"Z3_2": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"Z3_2_symbreak": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+"smt_Z3": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"smt_Z3_symbreak": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"smt_Z3_optimize": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  },
+"smt_Z3_optimize_symbreak": {
+  "time": 0,
+  "optimal": true,
+  "obj": null,
+  "sol": []
+  }
+}
